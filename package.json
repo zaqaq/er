@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0"
+  },
+  "dependencies": {
+    "vue-router": "next",
+    "vue": "next",
+    "naive-ui": "latest",
+    "@vicons/ionicons5": "latest"
+  }
+}
